@@ -12,7 +12,8 @@ greet('Welcome to our page, please visit out site and leave us a commen !!!')
 function root(number){
     return number+number; 
 }
-console.log(root(85));
+
+console.log(root(20));
 
 function valid(){
 alert('Clicking button');
