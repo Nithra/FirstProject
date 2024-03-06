@@ -1,3 +1,4 @@
+console.log('Hai wecome');
 let person = {
     name : 'Nithya',
     age : '33',
